@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
+- 🌱 &nbsp; Currently Learning Blockchain Technology.
+- Open for project collaboration and internship opportunities. 
+
+<h3>🛠 Tech Stack</h3>
